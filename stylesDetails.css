@@ -1,0 +1,255 @@
+body{
+    margin: 0px;
+}
+#navBar{
+    background-color: rgb(30, 8, 83);
+    display: flex;
+    flex-direction: row;
+}
+
+#menu{
+    text-align: right;
+    padding-left: 25em;
+    padding-top: 1em;
+}
+
+#title{
+    text-align: left;
+    padding-left: 3em;
+    color: white;
+    
+}
+
+li{
+    display: inline-block;
+    padding-left: 5em;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+a:hover{
+    font-weight: bold;
+
+}
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
+
+p{
+    padding: 1em;
+}
+
+#container{
+    display: flex;
+    flex-direction: column;
+}
+
+#instructions{
+    background-color: rgb(144, 179, 232);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+.modelText{
+    display: flex;
+    flex-direction: row;
+    margin-right: 2em;
+    margin-left: 2em;
+    margin-top: 1em;
+    margin-bottom:1em;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    padding-left: 2em;
+    padding-right: 2em;
+    border-radius: 2em;
+}
+
+#model1{
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+    padding: 2em;
+    /*box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);*/
+}
+#model2{
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+    padding: 2em;
+    /*box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);*/
+}
+
+#model3{
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+    /*box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);*/
+    padding: 2em;
+}
+
+#model4{
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 5em;
+    padding: 2em;
+    /*box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.3);*/
+}
+
+
+.text{
+   padding-right: 4em;
+}
+
+.highlights{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.hl{
+    background-color: rgb(144, 179, 232);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    padding: 0em;
+    margin: 0em;
+    
+}
+
+
+#where1{
+    background-color: rgb(144, 179, 232);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    padding: 0em;
+    margin: 0em; 
+}
+
+#where1:hover{
+    font-weight: bold;
+}
+
+#where2{
+    background-color: rgb(144, 179, 232);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    padding: 0em;
+    margin: 0em; 
+}
+
+#where2:hover{
+    font-weight: bold;
+}
+
+#where3{
+    background-color: rgb(144, 179, 232);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    padding: 0em;
+    margin: 0em; 
+}
+
+#where3:hover{
+    font-weight: bold;
+}
+
+#where4{
+    background-color: rgb(144, 179, 232);
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 1em;
+    padding: 0em;
+    margin: 0em; 
+}
+
+#where4:hover{
+    font-weight: bold;
+}
+
+#map1{
+    z-index: 20;
+    position: fixed;
+    display: none;
+    text-align: center;
+    margin-left: 20em;
+}
+
+#map2{
+    z-index: 20;
+    position: fixed;
+    display: none;
+    text-align: center;
+    margin-left: 20em;
+}
+
+
+#map3{
+    z-index: 20;
+    position: fixed;
+    display: none;
+    text-align: center;
+    margin-left: 20em;
+}
+
+#map4{
+    z-index: 20;
+    position: fixed;
+    display: none;
+    text-align: center;
+    margin-left: 20em;
+}
+
+#close1{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+    border-radius: 1.5em;
+    position: absolute;
+    z-index: 30;
+    margin-left: 25em;
+    margin-top: 33em;
+}
+
+#close2{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+    border-radius: 1.5em;
+    position: absolute;
+    z-index: 30;
+    margin-left: 25em;
+    margin-top: 33em;
+}
+
+#close3{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+    border-radius: 1.5em;
+    position: absolute;
+    z-index: 30;
+    margin-left: 25em;
+    margin-top: 33em;
+}
+
+
+#close4{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 1em;
+    border-radius: 1.5em;
+    position: absolute;
+    z-index: 30;
+    margin-left: 25em;
+    margin-top: 33em;
+}
+
