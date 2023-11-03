@@ -89,3 +89,10 @@ body{
     border-radius: 1em;
     padding: 1em;
 }
+
+#background{
+    width: 100%;
+    height: auto;
+    z-index: -10;
+    position: fixed;
+}
