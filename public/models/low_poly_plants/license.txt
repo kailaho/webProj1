@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly plants
+* source:	https://sketchfab.com/3d-models/low-poly-plants-1bf69da60937416b99251523550e5f52
+* author:	¡Jacques (https://sketchfab.com/iJacques)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly plants" (https://sketchfab.com/3d-models/low-poly-plants-1bf69da60937416b99251523550e5f52) by ¡Jacques (https://sketchfab.com/iJacques) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
